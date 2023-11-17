@@ -33,6 +33,9 @@ Hoja de KPIs:
 Conclusión
 
 Se observó una variabilidad considerable en la cantidad de localidades con acceso a internet. Este hallazgo sugiere la existencia de disparidades geográficas que podrían requerir estrategias específicas para mejorar la cobertura.
+
 Se observó una variabilidad considerable en la cantidad de localidades con acceso a internet. Este hallazgo sugiere la existencia de disparidades geográficas que podrían requerir estrategias específicas para mejorar la cobertura.
+
 El análisis temporal mostró una tendencia general al aumento de ingresos en miles de pesos a lo largo de los años. Identificar este patrón puede respaldar la toma de decisiones estratégicas y orientar las inversiones futuras.
+
 Durante el EDA, se reconoció la necesidad de datos adicionales sobre información demográfica detallada sobre las localidades estudiadas, como edad promedio, composición familiar, nivel educativo y otros factores demográficos y obtener retroalimentación directa de los usuarios mediante encuestas o entrevistas sobre la calidad de su experiencia con los servicios de internet. Esto puede revelar aspectos subjetivos que no se reflejan directamente en los datos cuantitativos. La adquisición de esta información podría fortalecer aún más el análisis y proporcionar una comprensión más completa de la situación.
